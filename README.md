@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, my name is Emma Nguyen
+I'm a USF Freshman
+My major is CS
+hello
